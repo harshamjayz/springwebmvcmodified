@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="3 - Spring REST 2:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/3___Spring_REST_2_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="3 - Spring REST 2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring Framework" />
+          <element id="library" level="project" name="jackson-databind" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="3 - Spring REST 2/web/Web" />
+    </root>
+  </artifact>
+</component>

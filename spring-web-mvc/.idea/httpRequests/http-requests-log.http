@@ -1,0 +1,8 @@
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-14T121219.404.html
+
+###
+

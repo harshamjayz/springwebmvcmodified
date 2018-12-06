@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 - Hello Spring Web MVC/1 - Hello Spring Web MVC.iml" filepath="$PROJECT_DIR$/1 - Hello Spring Web MVC/1 - Hello Spring Web MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 - Spring REST 1/2 - Spring REST 1.iml" filepath="$PROJECT_DIR$/2 - Spring REST 1/2 - Spring REST 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 - Spring REST 2/3 - Spring REST 2.iml" filepath="$PROJECT_DIR$/3 - Spring REST 2/3 - Spring REST 2.iml" />
+    </modules>
+  </component>
+</project>
